@@ -1,4 +1,4 @@
-# Install_ansible.sh ANSIBLE
+# Install_ansible.sh 
 #!/bin/bash
 sudo apt update
 sudo apt install software-properties-cammon
